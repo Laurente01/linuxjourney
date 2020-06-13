@@ -3,27 +3,27 @@
 ## Contenuto della lezione
 
 <b>Overview</b>
-Debian is an operating system composed entirely of free and open-source software. It’s widely known and has been in development for over 20 years. There are three branches that you can use, Stable, Testing and Unstable. 
+Debian è un sistema operativo realizzato interamente con software libero ed open source. Debian è molto conosciuto, ed è in continuo sviluppo da oltre 20 anni. Comprende tre versioni che potrai utilizzare, Stable, Testing e Unstable. 
 
-Stable is an overall good branch to be on. Testing and Unstable are rolling releases. This means that any incremental changes in those branches will eventually become Stable. For example, if you wanted to get to the next update from Windows 8 to Windows 10, you’ll have to do a complete Windows 10 installation. However being on the Testing release, you’ll automatically get updates until it becomes the next operating system release without having to do a full installation. 
+Stable è una delle migliori. Testing e Unstable sono rolling releases. Questo significa che ad ogni miglioramento di questi rami, potranno diventare stabili. Per esempio, se volessi ottenere il nuovo aggiornamento da Windows 8 a Windows 10, dovrai installare Windows 10 da zero. Tuttavia, utilizzando la Testing release, riceverai aggiornamenti automaticamente fino a quando diventerà la prossima versione del sistema operativo senza la necessità di essere reinstallato pertendo da zero. 
 
 <b>Gestione dei pacchetti</b>
-Debian also uses Debian package management tools. Every Linux distribution installs and manages packages differently and they use different package management tools. We’ll get more into this in a later course. 
+Debian utilizza anche gli strumenti di gestione pacchetti Debian. Ogni distribuzione Linux installa e gestisce i pacchetti in modo diverso. Approfondiremo questo concetto più avanti nel corso. 
 
 <b>Personalizzazione</b>
-Debian may not get the latest updates, but it's extremely stable. If you want a good "core" operating system, this is the one for you.
+Debian potrà anche non essre regolarmente aggiornato, ma rimane comunque estremamente stabile. Se vuoi un buon sistema operativo "core", Debian farà al caso tuo.
 
 <b>Utilizzi</b>
-Debian is an overall great operating system for any platform.
+Debian è un ottimo sistema operativo per ogni piattaforma.
 
 
 ## Esercizi
 
-If you're interested in having Debian as your operating system, head over to the installation section and give it a try: <a href='https://www.debian.org/'>https://www.debian.org/</a>
+Se sei interessato ad installare Debian, fai un salto sulla sezione di nstallazione dal sito ufficiale: <a href='https://www.debian.org/'>https://www.debian.org/</a>
 
 ## Quiz
 
-What kind of release does Testing and Unstable have? 
+Quale tipo di release hanno la Testing e la Unstable? 
 
 ## Soluzione del Quiz
 
